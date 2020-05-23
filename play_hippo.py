@@ -141,6 +141,7 @@ def main():
 
 	client.close()
 
+#引数チェックを入れたいね
 if __name__ == '__main__':
 	args = sys.argv
 	cmd_num = len(args)
